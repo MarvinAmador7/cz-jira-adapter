@@ -1,0 +1,16 @@
+{
+  "name": "cz-jira-adapter",
+  "version": "1.0.0",
+  "description": "Commitizen adapter following the jira smart commits format",
+  "main": "index.js",
+  "homepage": "https://github.com/MarvinAmador7/cz-jira-adapter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarvinAmador7/cz-jira-adapter.git"
+  },
+  "author": "Marvin Amador <marvin.ac.cr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "conventional-commit-types": "2.0.0"
+  }
+}
